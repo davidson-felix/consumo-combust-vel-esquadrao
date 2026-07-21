@@ -94,7 +94,6 @@ Este é meu primeiro projeto de dados de ponta a ponta (SQL → Python →
 Power BI), construído para praticar o fluxo completo num contexto de
 negócio que domino por experiência real. Ainda estou nos estudos de SQL,
 Power BI e Python (roteiro auto-dirigido em andamento) — meus próximos
-passos são adicionar um segundo projeto num domínio diferente (comércio
-exterior) e aprofundar window functions e DAX.
+passos são adicionar um segundo projeto num domínio diferente e aprofundar window functions e DAX.
 
 **Autor:** Davidson Felix Alves — [LinkedIn](https://www.linkedin.com/in/davidson-felix)
